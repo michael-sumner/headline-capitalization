@@ -67,7 +67,6 @@ export default function Command() {
           <Form.Dropdown.Item value="2" title="Capitalize With 4+ Letters (AP Style)" />
           <Form.Dropdown.Item value="3" title="Capitalize with 5+ Letters (APA Style)" />
           <Form.Dropdown.Item value="4" title="Don't Capitalize Based on Length (Chicago Style)" />
-          <Form.Dropdown.Item value="5" title="Capitalize Major and With 4+ Letters (MLA Style)" />
         </Form.Dropdown>
       </Form>
     </>
