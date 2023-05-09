@@ -1,4 +1,4 @@
-# Headline Capitalization
+# Title Caps
 
 Capitalize your text using APA, AP, Chicago formats, and more.
 

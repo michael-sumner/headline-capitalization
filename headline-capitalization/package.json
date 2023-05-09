@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "headline-capitalization",
-  "title": "Headline Capitalization",
+  "name": "title-caps",
+  "title": "Title Caps",
   "description": "Capitalize your text using APA, AP, Chicago formats, and more.",
   "icon": "command-icon.png",
   "author": "michael-sumner",
@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "Headline Capitalization",
+      "title": "Title Caps",
       "description": "Capitalize your text using APA, AP, Chicago formats, and more.",
       "mode": "view"
     }
