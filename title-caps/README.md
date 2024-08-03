@@ -1,6 +1,6 @@
 # Title Caps
 
-Capitalize your text using APA, AP, Chicago formats, and more.
+Capitalize your text using correct English title case rules.
 
 ## Issue Tracker
 
